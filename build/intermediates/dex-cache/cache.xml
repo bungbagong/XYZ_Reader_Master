@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\bungbagong\AndroidStudioProjects\XYZ_Reader_Master\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\XYZ_Reader_Master\XYZReader\build\intermediates\pre-dexed\debug\volley_bea269f311a8a2f1812ac338d491e3ee6094a68f.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\AndroidStudioProjects\XYZ_Reader_Master\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\XYZ_Reader_Master\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_075523cf8c75e99790f0fafea7626e6b974c2ca5.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_f644d28ca4868191627f8b9ad494eb4d29fdb80d.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\AndroidStudioProjects\XYZ_Reader_Master\XYZReader\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\XYZ_Reader_Master\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_d59172287854f62f9738e8efa6af988f9cffd61b.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\pre-dexed\debug\picasso-2.5.2_a75a99bb760810e269ddca494c0ca508c646c7f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-23.1.1_9eccf590ece8a41777b47764d92b43e61df2d8c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_82ef6fdb8e1427d091b1c81169b1dbd01714278e.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\AndroidStudioProjects\XYZ_Reader_Master\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\XYZ_Reader_Master\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-23.1.1_fd29ec5ed9525e072a5064b3bde7558cdb09223d.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_c7bafa6f216e01f16a86baf5c00aa05cbd785358.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_14ea67fa7ed56c6c6e45a8e98ca5b9999b06a899.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_5d526a1c964521e699cfa976ac860b7337f12410.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_861a3618b8a4056a8f796f31a01921e604a7c3b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\AndroidStudioProjects\XYZ_Reader_Master\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\XYZ_Reader_Master\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_311a481616013faeee6d4be305a7b147e1489bf0.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_258727442d204808dce5ff49d071c2b33a6a653e.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\AndroidStudioProjects\XYZ_Reader_Master\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\XYZ_Reader_Master\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_e03874b374f0617a1b95fb8c8426d9e9e5cf21f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_15356450b7c77d04b05c73e36e88f945e7811e96.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\AndroidStudioProjects\XYZ_Reader_Master\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\XYZ_Reader_Master\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_fb116f675ee0da3d0c3b0c641d165861e27e3ba9.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\AndroidStudioProjects\XYZ_Reader_Master\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\XYZ_Reader_Master\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_8dcea1dfe675d4caaeb9bc23871f3336d0b2a3df.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_5a827d55d91f565232f41cf2a0d46655f162155a.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v13-23.1.1_7fdda578cd01e769e3dce5e62297bdf236cd0d0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.0.1\b34c1f2d993044656e87f88970b6818e99e886ba\okhttp-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.0.1_ac15bde5ad7e4f035120bba595b1525bdfa45899.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\AndroidStudioProjects\XYZ_Reader_Master\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\XYZ_Reader_Master\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_22f90bdf173f02ba9a4df286d4955dbfb2448d3e.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\xyz-reader-ranguro\XYZReader\build\intermediates\pre-dexed\debug\volley_5c6ba1eccdf22de1c90004d23a8dcfebc3da8906.jar" />
+    </item>
+    <item
+        jar="C:\Users\bungbagong\AndroidStudioProjects\XYZ_Reader_Master\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="C:\Users\bungbagong\AndroidStudioProjects\XYZ_Reader_Master\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v13-23.1.1_1cc40b72b5a8831d05c2b05d2d3a4e07cfa9cb11.jar" />
+    </item>
+
+</items>
